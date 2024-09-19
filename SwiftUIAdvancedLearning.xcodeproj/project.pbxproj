@@ -12,6 +12,7 @@
 		3FA1490A2C9BE80800DBDB98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FA149092C9BE80800DBDB98 /* Preview Assets.xcassets */; };
 		3FA149112C9BEA0200DBDB98 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */; };
 		3FA149132C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */; };
+		3FA149152C9BF88900DBDB98 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3FA149092C9BE80800DBDB98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3FA149022C9BE80000DBDB98 /* SwiftUIAdvancedLearningApp.swift */,
 				3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */,
 				3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */,
+				3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */,
 				3FA149062C9BE80800DBDB98 /* Assets.xcassets */,
 				3FA149082C9BE80800DBDB98 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				3FA149132C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift in Sources */,
 				3FA149112C9BEA0200DBDB98 /* ViewModifierBootcamp.swift in Sources */,
+				3FA149152C9BF88900DBDB98 /* AnyTransitionBootcamp.swift in Sources */,
 				3FA149032C9BE80000DBDB98 /* SwiftUIAdvancedLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
