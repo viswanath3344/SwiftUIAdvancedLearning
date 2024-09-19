@@ -29,7 +29,7 @@ extension View {
         font: Font = .body,
         foregroundColor: Color = .white
     ) -> some View {
-        self.modifier(
+        modifier(
             DefaultTextModifier(
                 backgroundColor: backgroundColor, foregroundColor: foregroundColor,
                 font: font
