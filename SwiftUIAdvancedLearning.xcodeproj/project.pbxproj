@@ -13,6 +13,9 @@
 		3FA149112C9BEA0200DBDB98 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */; };
 		3FA149132C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */; };
 		3FA149152C9BF88900DBDB98 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */; };
+		3FA149172C9D3ECC00DBDB98 /* MatchedGeometricEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149162C9D3ECC00DBDB98 /* MatchedGeometricEffectBootcamp.swift */; };
+		3FA149192C9D40F600DBDB98 /* MatchedGeometricEffect2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA149182C9D40F600DBDB98 /* MatchedGeometricEffect2.swift */; };
+		3FA1491B2C9D6B2600DBDB98 /* PreferenceKeyBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA1491A2C9D6B2600DBDB98 /* PreferenceKeyBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
+		3FA149162C9D3ECC00DBDB98 /* MatchedGeometricEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometricEffectBootcamp.swift; sourceTree = "<group>"; };
+		3FA149182C9D40F600DBDB98 /* MatchedGeometricEffect2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometricEffect2.swift; sourceTree = "<group>"; };
+		3FA1491A2C9D6B2600DBDB98 /* PreferenceKeyBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeyBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,8 @@
 				3FA149102C9BEA0200DBDB98 /* ViewModifierBootcamp.swift */,
 				3FA149122C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift */,
 				3FA149142C9BF88900DBDB98 /* AnyTransitionBootcamp.swift */,
+				3FA1491C2C9D9B8C00DBDB98 /* MatchedGeometricEffect */,
+				3FA1491A2C9D6B2600DBDB98 /* PreferenceKeyBootcamp.swift */,
 				3FA149062C9BE80800DBDB98 /* Assets.xcassets */,
 				3FA149082C9BE80800DBDB98 /* Preview Content */,
 			);
@@ -71,6 +79,15 @@
 				3FA149092C9BE80800DBDB98 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3FA1491C2C9D9B8C00DBDB98 /* MatchedGeometricEffect */ = {
+			isa = PBXGroup;
+			children = (
+				3FA149162C9D3ECC00DBDB98 /* MatchedGeometricEffectBootcamp.swift */,
+				3FA149182C9D40F600DBDB98 /* MatchedGeometricEffect2.swift */,
+			);
+			path = MatchedGeometricEffect;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,8 +160,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FA1491B2C9D6B2600DBDB98 /* PreferenceKeyBootcamp.swift in Sources */,
 				3FA149132C9BEDF800DBDB98 /* ButtonStyleBootcamp.swift in Sources */,
 				3FA149112C9BEA0200DBDB98 /* ViewModifierBootcamp.swift in Sources */,
+				3FA149192C9D40F600DBDB98 /* MatchedGeometricEffect2.swift in Sources */,
+				3FA149172C9D3ECC00DBDB98 /* MatchedGeometricEffectBootcamp.swift in Sources */,
 				3FA149152C9BF88900DBDB98 /* AnyTransitionBootcamp.swift in Sources */,
 				3FA149032C9BE80000DBDB98 /* SwiftUIAdvancedLearningApp.swift in Sources */,
 			);
